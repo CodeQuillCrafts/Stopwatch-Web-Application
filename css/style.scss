@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: #293697;
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section#stopWatch {
+    height: 10vh;
+    width: 300px;
+    background: #000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+
+    span {
+        color: #fff;
+        font-size: 2.5rem;
+        margin: 0 3px;
+    }
+}
+
+section.btns {
+    width: 300px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    input {
+        background: none;
+        border: 2px solid #972897;
+        color: #972897;
+        padding: 10px 20px;
+        margin: 0 20px;
+
+        &:hover {
+            border-color: #199760;
+            color: #199760;
+        }
+    }
+}
