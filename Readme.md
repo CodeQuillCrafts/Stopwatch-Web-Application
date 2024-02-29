@@ -22,4 +22,6 @@
 
 <img src="images/Preview.png" alt="PreviewImg">
 
-## <center><a href="https://codequillcrafts.github.io/Tic-Tac-Toe/" targer=_blank >View Live</a></center>
+## <a href="https://codequillcrafts.github.io/Stopwatch-Web-Application/" targer=_blank >View Live At Github</a>
+
+## <a href="https://stopwatch-codequillcrafts.netlify.app/" targer=_blank >View Live At Netlify</a>
